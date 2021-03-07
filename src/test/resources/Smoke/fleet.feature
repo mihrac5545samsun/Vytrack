@@ -9,7 +9,7 @@ Background:
     Then User sees Vehicle Odometer button and clicks it
     Then User reaches Vehicle Odometers Grid Page
 
-  @fleet
+  @fleety
   Scenario: to create Vehicle Odometer or cancel it
 
     Given User is on the Vehicle Odometer Grid Page
